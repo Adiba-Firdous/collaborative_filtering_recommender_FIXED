@@ -1,0 +1,17 @@
+{
+  "project": "Collaborative Filtering Recommender",
+  "library": "Surprise",
+  "python_recommended": "3.11",
+  "files": [
+    ".gitignore",
+    "README.md",
+    "data/movies.csv",
+    "data/ratings.csv",
+    "main.py",
+    "requirements.txt",
+    "src/__init__.py",
+    "src/evaluate.py",
+    "src/recommender.py",
+    "tests/test_recommender.py"
+  ]
+}
